@@ -1,0 +1,370 @@
+id,evaluation,text,sentiment_score,categories
+3,4,"Oui, ce questionnaire est très bien fait.",0.954,autre
+9,2,"Mes enfants y vont 1 fois part semaine et je trouve que c’est trop souvent le même style de repas. 
+Les même ingrédients sous des formes différentes",-0.312,variété
+10,1,"Mon enfant qui mange de tout rentre au moins 1x par semaine en ayant mangé que du pain car souvent les aliments sont mélangés, réchauffés des jours passés avec des quantités tout à fait aléatoire.",-0.603,"quantité, goût"
+11,4,"non, mes filles adorent la cuisine scolaire et mangent de tout évidemment sauf du porc",0.515,autre
+13,3,Mes enfants se plaignent souvent que les repas ne sont pas bons.,-0.884,goût
+14,3,"Pour ma part, visuellement, si les plats n’ont pas l’air appétissant, mes enfants ne goûteront pas et je me rend compte que un de mes fils peut passer une journée sans manger et personne ne va encourager l’enfant à manger",-0.483,"goût, encadrement"
+16,3,Non,-0.092,autre
+20,2,Mon enfant se plaint que les plats sont beaucoup trop salés..,-0.837,goût
+21,2,"Depuis que mes enfants sont à l ecole du plateau ils se plaignent que c est pas bon, ce qui n etait jamais arrivé avant.
+Aussi, je pense que sauf problème de poids et sous conditions que les enfants s engagent à finir , on devrait laisser la possibilité de plus se resservir.
+Aussi, je suis pour bio de saison et tutti qu’anti mais pour que tout fonctionne (y compris le non gaspillage) il faut que ça soit bon…",-0.222,"goût, quantité"
+23,3,"La présence de lait animal dans les menus sans possibilités de remplacement…
+Les substituts à la viande : tofu etc… sont des produits industriels qui ne sont absolument pas nécessaire dans un menu végétarien équilibré",-0.342,"régimes spéciaux, végétarien, qualité"
+24,3,Non,-0.092,autre
+25,3,une des priorités est la lutte contre le gaspillage alimentaire (que deviennent les restes ?),0.108,quantité
+27,3,"Je pense que beaucoup d'enfants n'ont pas une bonne alimentation en raison des difficultés financières familiales. Les restaurants scolaires devraient proposer plus de viandes et en plus grand quantité (possibilité de se resservir). Pour les enfants qui ne consomment pas de viande, une alternative devrait être systématiquement proposée.",-0.353,"quantité, végétarien"
+28,3,"Parfois les enfants ont droit à des pâtes ou du riz sans sauce. S'il n'y a ni viande ni poisson, ce serait bien de prévoir une petite sauce en plus pour accompagner les plats.",0.071,goût
+30,1,"La plupart du temps, mon fils a faim à l'école et je n'aime pas la nourriture, je suis désolé",-0.843,"goût, quantité"
+31,2,"L alternative à la viande est le légume et pas des aliments transformés.
+Je suis inquiéte des aliments transformés qui pourraient se mettre la place de la viande j ai vu une fois de la protéine de pois dans le menu qui est une première étape à ces dérives . Il n y a pas de diversité dans cette cantine (  poissons panés et cordon bleus en gros et gratin de macaronis .. )",-0.468,"végétarien, qualité, variété"
+34,1,"Pas assez de nourriture pour les enfants de 8p. Petites quantités dans l’assiette. Pas possible de se resservir. Beaucoup de gaspillage.
+Impossible de se brosser les dents à midi",-0.715,quantité
+36,1,"Les enfants se plaignent régulièrement de la qualité des repas et ne mangent que rarement ce qu'il est proposé car cela serait rarement bon (pourtant ils mangent de tout). Cela semble confirmée en discutant avec plusieurs autres parents. Je dois donc leur mettre plusieurs goûtes et ils sont affamés le soir.
+De plus, il y aurait des surveillants qui ne seraient pas toujours agréables et patients avec les enfants.
+Je laisse mes enfants au cuisines scolaires car pas le choix. Mais autrement je les aurait déjà ôtés.",-0.573,"goût, quantité, encadrement"
+37,2,Les enfants n'aiment pas du tout la repas depuis le chamgement de menu l'année dernier. Il y a très peu de repas qu'ils aiment et ils disent que les enfants et led animatrices se plaignent. Le gaspillage a dû augmentar parce qu'il y a des repas qu'aucun enfant ne mange.,-0.808,"goût, quantité"
+40,2,"Oui. J’ai eu l’occasion de goûter les repas en plusieurs écoles car j’ai travaillé pour le parascolaire.
+La production est médiocre. En cas d’un bon repas , les quantités sont limités",-0.077,"goût, quantité"
+41,3,"Ce serait sympa si nous parents de temps en temps pouvions voir l’assiette de nos enfants car écrit ça à l’aire super , mais visuellement on ne sait pas !",-0.063,implication des parents
+46,3,"Privilégier les filières courtes, travailler directement avec des producteurs locaux, proposer plus de légumineuses différentes et sous différentes formes (seitan, pois chiche, tofu...). Proposer plus de menus du monde (aller un peu plus loin que la piazza, le curry et le chili con/sin carne).
+Peut-être faudrait-il dépasser le stade de la mention systématique des menus végétariens, sachant qu'une quiche ou des raviolis au fromage restent des plats assez classiques.
+Ce n'est pas le sujet du questionnaire, mais peu d'efforts (produits locaux, sains...) sont faits pour les goûters et c'est dommage.",-0.094,"variété, qualité, végétarien"
+49,1,"Prêvoir des menus adaptés aux enfants ! Parfois les menus sont tellement du n'importe quoi et pas bons que je suis obligée de faire rentrer mon fils pour que il ne reste pas sans manger ! Jamais du porc au menu a cause de ceux qui  ne peuvent pas manger ! C'est injuste . Vous n'avez que a prêvoir autre chose pour les enfants qui ne peuvent pas manger du porc ! 
+Et faire des menus plus simples mais gourmands au lieu de mettre des aliments que les enfants ne mangent pas . Et franchement souvent en été nous on régle 8 fr pour le repas pour que les enfants reçoivent a manger un sandwich + une bouteille d'eau ??? Inadmissible .   Il faut rêvoir les menus de toute urgence !",-0.294,"goût, variété"
+51,1,"Je trouve qu'il devrait y avoir plus d'animateurs pour s'occuper des enfants, et surtout que ça change beaucoup.",-0.672,encadrement
+53,4,"Non, je suis tres contente des menus proposés",0.952,autre
+54,2,"J’aimerai que mon fils ait un alimentation variée et équilibrée  à  base de viande, poisson et légume.",0.412,variété
+60,3,Asiatiques,-0.007,autre
+61,3,"Je préférerai, pour les plats végétariens, de ne proposer que des pâtes avec des légumes et du fromage (si besoin) que de proposer des produits super transformés comme les steaks végétaux ou autres que les enfants aiment moins.",0.048,"végétarien, qualité"
+62,4,RAS,-0.054,autre
+64,2,Le comportement peu avenant voir agressif de l'encadrement,-0.841,encadrement
+68,3,"Mes enfants mangent de tout à la maison, mais ils sont moins habitué à manger végétarien donc ils me disent souvent de manger très peu à la cantine et à 16h ils sont très faim...
+L'encadrement des adultes (hors une personne) à l'air super. Merci à toute l'équipe de la cantine.",0.589,"végétarien, quantité, encadrement"
+70,2,A mon avis il est important de faire goûter de nouveaux aliments aux enfants mais parfois ce sont des menus qui sont très particulier et n ont aucune autre option de repas et finissent par ne rien manger à certains repas.,-0.041,"variété, quantité"
+72,2,L’encadrement du GIAP n’est pas toujours adéquat,-0.777,encadrement
+74,2,Oui nous l’avons relevé plusieurs fois. Nos enfants aiment les crudités mais ne les mangèrent jamais au para! La raison: une sauce blanche industrielle qui recouvre systématiquement les salades!!!,-0.296,goût
+75,2,"Notre enfant mange dans un des restaurants scolaires mais à cause de ses allergies, il mange nos préparations.",-0.072,régimes spéciaux
+76,2,La fréquence des sandwichs durant les fins d'annéee paraît élevée.....,-0.101,variété
+77,3,"Je trouve bien que vous proposiez des menus végétariens seulement mon enfant se plaint du manque de qualité gustative de ces plats végétariens (le moment du repas doit être plaisant et même si je suis pour la diversité alimentaire je trouve important que nos enfants apprécient ce qu'ils mangent
+
+Le bruit généré par un nombre d'enfants important est très fatiguant et il serait bien de pouvoir garantir du calme pour les temps de repas,,,",-0.333,"goût, végétarien"
+79,2,Les menus variés mais j’entends souvent par mes enfants qu’elles mangent les pattes ou des pizza à la cantine…,-0.003,variété
+83,2,"Faire des repas simples 
+Ne pas trop mélanger les aliments",0.048,goût
+90,1,"L’équilibre des menus est important certe, mais la saveur de ceux-ci sont très importants. Notre enfant se plaint systématiquement que ce n’est pas bon et se retrouve à manger du pain! Cela fait cher le menu.
+Notre enfant mange de tout et il a l’habitude de produits cuisinés frais, de saison et variés.",-0.11,"goût, quantité, prix"
+91,1,"je trouve vraiment difficile pour un parent d'entendre que son enfant n'a pas assez à manger ou que le riz n'est pas cuit. De plus je trouve en temps que parents inadmissible ou en tout cas inconcevable que les animateur se resservent et qu'on dise aux enfant qu'il n'y a pas suffisamment pour eux. pour avoir travailler comme surveillante de parascolaire dans une école privée, les animateurs ne mangeaient que ceux qu'il restait. Il serait bien de la ville de lancy effectue des visites inopinées de temps en temps...",-0.469,"goût, quantité, encadrement"
+97,2,Ajouter un four classique (et non le micro-ondes) pour chauffer des plats,0.028,goût
+100,2,"Mes enfants me rapportent souvent qu'ils ne mangent pas à leur faim et que les repas sont sans gout. 
+Je trouve bien de vouloir s'orienter vers une alimentation durable et autre mais ma priorité reste que mes enfants ne rentrent pas le soir en disant qu'ils n'ont mangé que du pain et de la salade, je trouve cela inadmissible que je paie pour qu'ils aient faim, ils sont en pleine croissance et il est important de leur donner tous les aliments qui leur permettent de pouvoir se concentrer à l'école et non de penser qu'ils sont faim après un repas.
+Ils se plaignent également qu'ils n'ont pas le droit de se servir de l'eau autant qu'ils le voudraient cela aussi est inadmissible car c'est de l'eau du robinet donc cela ne devrait pas être limité.",-0.582,"goût, quantité"
+101,4,"Mon enfant nous parle toujours de la sauce blanche qui accompagne la salade et qui lui plaît particulièrement. Nous avons l’impression qu’il n’y a que cette sauce à salade, si c’est le cas, varier les goûts et les huiles serait intéressant svp.",0.252,"goût, variété"
+102,4,"Mon fils est très content de ses repas, nous partageons souvent sur ce qu'il a ou ce qu'il va manger. Il y prend du plaisir.",0.953,goût
+104,2,"Il est important d'avoir des produits frais dans l'alimentation pour avoir le plus de nutriments possible. 
+Mon mari travaille dans une crèche qui travaille avec kidelis et il dit que la qualité de la nourriture n'est vraiment pas bonne.",-0.209,qualité
+109,3,Je souhaite qu'il n'y ait jamais d'aliments à base d'insectes dans les menus car un de vos collaborateurs en à proposer aux enfants pour goûter l'année dernière.,-0.565,autre
+110,2,"La cuisson des viandes, il arrive fréquemment que la viande soit mal cuite et mes enfants sont malades ensuite. Ex :Cordon-bleu encore gelé à l'intérieur. Certains plats végétariens n'ont pas de goût.",-0.775,goût
+112,2,"L’encadrement , le personnel en sous effectif et le nombre d’enfants à gérer . Les absents non remplacés et surtout le bruit infernal lors des repas . 
+Enfin , kidelis c’est vraiment mauvais",-0.762,"encadrement, bruit, goût"
+116,2,"Depuis petit, mon enfant rentre des cuisine scolaire en ayant très faim. 
+Il me fait sans cesse les mêmes remarques : il ne mange pas suffisamment, les animatrices sont très peu disponible et même parfois injuste. Selon les dires de certaines maîtresses de l’école, les enfants sont livrés à eux même durant le temps des cuisines scolaires. Ils ont très souvent très peu de temps pour manger et n’ont parfois pas plus de 10 minutes à tables pour leur repas ce qui est inacceptable au vu du prix des repas. Très insatisfaites de la prestation des cuisines scolaires qui est de plus en plus déplorable. De plus les animatrices écoutent des musiques très inadaptées aux enfants durant les heures de repas.",-0.716,"quantité, encadrement, temps, prix"
+118,3,Le niveau sonore des salles est très important à prendre en considération.,0.108,bruit
+119,3,"Je pense qu'il est essentiel que les enfants est au moins un élément qu'ils apprécient dans leurs assiettes. J'ai eu beaucoup de plaintes lors des menus végétariens qu'elles et leurs amis n'apprécient pas du tout. Elles me rapportent que les poubelles sont pleines lors de ses menus. Pour information, mon mari est végétarien elles ont donc l'habitude donc je pense que le problème viens d'ailleurs, goûts, textures,... En espérant que cela pourra être utile.",-0.181,"goût, végétarien, quantité"
+121,4,Je suis très contente de la diversité proposée par la ville de Lancy. Nous étions avant sur Genève et cela était moins qualitatif.,0.036,variété
+126,2,La quantité et la qualité sont malheureusement de moins en moins présent,-0.827,"goût, quantité"
+130,3,"Satisfait, merci",0.967,autre
+133,4,"Aucun intérêt à avoir du Bio qui viendrait d'un autre pays.
+Aucun intérêt non-plus à une alternative à la viande si c'est pour avoir des produits issus de l'agriculture intensive à l'autre bout de la planète et transportée par avion/camion sous blister et contenant je ne sais combien d'adjuvant et autres conservateurs",-0.651,"qualité, végétarien"
+136,1,Notre fille ne fréquente plus le resto scolaire qu’une fois par semaine et ce simplement pour manger une fois avec ses amies. Nous l’avons désinscrite depuis l’année passée déjà car la qualité des plats est désastreuse et souvent la quantité insuffisante. Pour le prix que nous payons ce n’est pas normal. Même les accompagnants s’en plaignent et parfois ne mangent pas!,-0.338,"goût, quantité, prix"
+139,2,"Qualité de l encadrement, goût des repas (pas bons)",-0.764,"encadrement, goût"
+140,2,Mes enfants me disent régulièrement que la nourriture n’était pas bonne et avait un aspect de déjà mâché …,-0.893,goût
+143,2,Merci de ne pas limiter les menus à certains enfants en raison des convictions des autres.,0.057,"variété, régimes spéciaux"
+147,4,Avoir une alternative de remplacement lors qu’il n’aime pas le menu du jour.,-0.128,implication des enfants
+148,2,Mon enfant n'aime pas les menus végétariens. Elle préfère de ne pas aller au restaurant scolaire pendant les jours végétariens comme elle reste faim.,-0.381,"goût, végétarien"
+150,2,"Mon enfant se plaint très souvent que le repas n’est pas bon et que les enfants finissent par ne manger que du pain…
+8.- pour un picnic (de médiocre qualité) est trop cher payé",-0.569,"goût, quantité, prix"
+153,4,Ter um prato suplementar em caso não goste do prato do dia,0.019,implication des enfants
+154,2,"Mise en ligne des menus constamment en retard d'une semaine minimum.
+Ça doit pas être si compliqué de mettre en ligne les menus une semaine à l'avance.
+Pour comparer FACILETICKET est tellement plus simple à utiliser et à consulter.",-0.014,implication des parents
+157,3,"Il nous semble que depuis cette année scolaire les produits plutôt non traditionnels (issus d-autres cuisine) sont devenus très, voire trop fréquents. Souvent notre fils se plaigne. Nous encourageons les nouveatés, mais avec modération (1 repas par semaine, pas 2-3...).",-0.273,variété
+162,3,"Il arrive parfois que les plats proposés soient très ""recherchés"" et éloignés du goût des enfants. Par conséquent, il est arrivé en de rares occasion, mais c'est arrivé que mon fils qui mange facilement de tout ne mange de son repas que la salade car selon lui le repas n'était ""vraiment pas bon"".",-0.785,"goût, quantité"
+163,3,Mon enfant est allergique aux produits laitiers. Par conséquent il mange les repas que nous lui prévoyons et qu'il emmene au parascolaire.,-0.062,régimes spéciaux
+165,2,La portions son trop petite et elle ne peix pas reprendre deux fois quand elle aime. Dommage car la dernière fois c'était une soupe de légumes :(,-0.838,quantité
+167,2,"Nous trouvons qu’il manque des semaines à thème (asiatique/italienne/automnale/hivernale, etc…) comme cela est proposé chez d’autres prestataires.
+
+Nous trouvons aussi que certains aliments sont très régulièrement proposé alors que d’autres le sont moins souvent(exemple:crevettes, ananas, quinoa, blé)
+
+Certains repas ressemble à des produits industriels congelés.
+
+Nous préférions que les repas coûtent un peu plus chers mais soient de meilleurs qualités.",-0.275,"variété, qualité, prix"
+170,3,Ça serai bien que l’animatrice ou animateur veille que l’enfant et si ce n’ai pas le cas ils doivent avertir les parents !,0.014,encadrement
+171,2,Mon enfant se plaint souvent que les plats n'ont pas de gôut,-0.86,goût
+172,2,"Que les parents puisse avoir accès au restaurant scolaire pour voir comment cela se passe mais pas avec réservation préalable, le but c’est la surprise (sans manger). 
+
+Se sont des enfants donc moi à de plat trop élaboré même si je suis d’accord il fut qu’ils découvrent mais il y a des limites, tous les enfant ne sont pas mange-tout.
+
+Pour ce qui est bio c’est bien mais si c’est du bio d’Espagne non merci ! Je préfère du régional, ip, bourdon.",-0.008,"implication des parents, goût"
+173,2,Aliment trop sales trop sucrée pas équilibré pour les enfants!,-0.884,qualité
+174,2,Ma fille me rapporte souvent qu’ils ont peu de temps pour manger et que s’ils passent au 2eme service il n’y a pas assez à manger.,-0.822,"temps, quantité"
+175,1,"En général notre enfant n'est pas difficile, elle mange quasiment de tout sauf la salade, chaque jours en rentrant de l'école elle est affamée et elle nous communique que le repas de midi était infecte. Souvent des enfants sont même malade. Merci de faire le nécessaire",-0.335,"quantité, goût"
+176,2,Ma fille me dis qu’il y a pas suffisamment à manger et qu’ils ont parfois pas assez de temps pour manger,-0.82,"quantité, temps"
+180,3,Il est important de diminuer le sucre et de favoriser les fruits comme desserts .,0.301,qualité
+182,3,"Non, ma fille est satisfaite dans l’ensemble.",0.941,autre
+183,1,Pourquoi il n’y a pas de porc??? Saucisse de porc…ou encore côtelette de porc????,-0.168,variété
+185,1,"Les encadrants force les enfants à manger.
+Les produits ne sont pas frais et souvent les enfants ont mal au ventre.
+Les menus ne sont pas bon du tout.
+On sert les enfants malgré leur refus de certains aliments et tous fini à la poubelle.
+Le lieu du restaurant scolaire a Tivoli n est pas adapté pour faire manger les enfants.
+Les enfants ne savent souvent pas ce qu il y a dans leur assiette les plats sont souvent très exotique.",-0.559,"encadrement, qualité, goût, quantité, lieu, variété"
+186,2,"Dans notre cas, nous suivons un régime alimentaire halal, donc mes enfants ne peuvent pas manger de viande aux restaurants scolaires, mais par contre elles pourraient manger du poisson. Je comprends qu'il soit compliqué pour l'équipe à gérer le fait d'avoir plusieurs sortes de menu spéciaux (sans porc, végétarien, etc.) mais je trouve d'un autre côté dommage que les enfants qui soient juste sans viande doivent également être sans poisson alors que c'est un aliment qu'ils peuvent consommer. 
+
+J'en profite également pour vous remercier d'avoir introduit des alternatives végétariennes à la place de la viande et du poisson, mes enfants apprécient d'avoir ce complément de menu !",0.004,"régimes spéciaux, végétarien"
+189,2,Mes enfants disent que tout le monde n’aime pas les soupes. Il faut vraiment changer les recettes,-0.676,goût
+191,2,"A plusieurs reprises,  mon enfant m'a indiqué que les quantités de nourriture étaient insuffisantes",-0.837,quantité
+194,1,"Trop de soja parmi les subsituts à la viande ou au poisson. Trop de ""fausse viande"". On peut faire de bons plats végétariens sans soja et sans ""fausse viande"".
+Les oeufs sont durs et gluants et donc peu appétissants.
+Les enfants aimeraient pouvoir se resservir plus de deux fois. Quand ils aiment le plat, ils sont surpris qu'on leur empêche de prendre une troisième portion, d'autant plus s'ils constatent qu'il reste beaucoup de nourriture.",-0.227,"qualité, végétarien, goût, quantité"
+198,3,"Je ne compte pas sur les restaurants scolaire pour faire decouvrir des mets d'autres cultures. Jattend d'eux qu'ils nourrisent mes enfants avec des mets qu'ils connaissent , qu'ils apprecient et surtout qu'ils aiment loin des pensées extremes tels que le veganisme ou le wokisme",0.005,"goût, variété"
+199,3,Limite de repas végétarien à deux fois par semaine.,0.019,végétarien
+201,3,J'apprécie la diversité des plats et les efforts réalisés pour que de plus en plus de produits soient locaux et de saisons et bio! Mon enfant n'aime pas les produits travaillés comme les produits végétariens qui reproduisent la texture de la viande. Je trouve plus intéressant gustativement les protéines végétales qui ne sont pas transformées.,0.423,"variété, qualité, végétarien"
+203,1,"Nos enfants nous communiquent fréquemment leur refus de manger les salades du fait de la sauce utilisée (industrielle) ainsi que les repas composés à base des produits industriels.
+Ils se sont également plaints du fait que des élèves d’autres confessions pouvait avoir le choix de leur menu à certaines occasions, mais que ce choix leur était refusé.
+Enfin, le manque de psychologie à certaines occasions de l’encadrement (p. ex. le refus de certains encadrants de permettre aux enfants de se brosser les dents après le repas, mesure d’hygiène pourtant élémentaire).",-0.425,"goût, qualité, régimes spéciaux, encadrement"
+207,1,"Je pense que les enfants doivent manger équilibré et variés, pouvoir goûter est important aussi découvrir des aliments et des nouveaux goûts. Tout ceci doit cependant être fait correctement, des retours que j'ai de mes enfants et aux vues des menus je pense que c'est plutôt du côté des cuisiniers qu'il faut revoir les choses, peut-être présenter des plats de meilleurs qualités avec du goût et qui donne envie, on peux servir de bon produits si ils sont mal utilisés le repas sera gâcher.",0.142,"variété, goût"
+209,2,Je souhaite communiquer que à l’école en sauvy propose à les enfants de manger des insects sans autorisation des parents.,-0.526,autre
+212,2,"Il devrait être possible de manger une fois par semaine de la viande ou du poisson de bonne qualité, locale ; d'éviter de proposer aux enfants des ersatz de viande au tofu ou autres succédanés, il devrait être possible de proposer des plats simples à base de légumes frais de saison, si les menus sont le plus souvent végétariens. Trop de soja (local, ou du Brésil ?).
+
+Nous entendons parfois des retours d'enfants qui nous font part de remarques ou d'attitudes parfois inadéquates, de la part des animateurs/trices. Formation suffisante ? Conditions de travail ?
+
+Merci pour votre travail.",0.01,"qualité, encadrement"
+214,3,"manque de temps pour manger (beaucoup trop rapide, moins que 40 minutes)",-0.763,temps
+215,1,"Les aliments sont très souvent pas assez cuits ou trop cuits!!  Il faut varier les sauces, notamment celles des salades . Il faut goûter la nourriture avant de la servir aux enfants. Les miens mangent de tout et ne sont pas difficiles mais n’arrêtent pas de se plaindre de la nourriture de restaurant scolaire . A ce prix et vu les volumes c’est trop cher",-0.335,"goût, variété, prix"
+216,2,Mettez les sauces a côté pour que les enfants puissent choisir de le goûter. Et SVP un atmosphère un peu plus calme et moins stressant/presse,-0.2,"goût, bruit, temps"
+222,1,Mon enfant rentre régulièrement en n'ayant presque rien mangé car il n'a pas aimé le goût du repas même en cas d'aliments qu'il mange habituellement à la maison.,-0.781,"quantité, goût"
+223,1,"Mon enfant rentre régulièrement en ayant presque rien mangé, car il n'a pas aimé le goût du repas même en cas d'aliments qu'il mange habituellement à la maison.",-0.786,"quantité, goût"
+225,4,Je trouve dommage que les enfants ne puissent pas manger en plus grosse quantité. Ils sont souvent limités sur la quantité alors qu’ils apprécient beaucoup les repas qui sont servis (chose plutôt remarquable).,-0.317,quantité
+228,3,"L’encadrement des adultes n’est pas satisfaisant.
+Les adultes ne sont pas à l’écoute des enfants",-0.763,encadrement
+229,3,Sur la salade il y á trop de sauces!!!,-0.796,goût
+231,4,Non,-0.092,autre
+232,2,"Dans le cadre de mon travail, j ai moi-même mangé les repas fournis par le même prestataire de service, Kidélis, pendant plusieurs années et j ai fini par apporter mes propres repas au travail... les légumes ne sont vraiment pas attrayants , et je reste persuadée qu'un cuisinier sur place permettrait aux enfants d apprécier réellement leur repas, et de favoriser la découverte alimentaire...",-0.564,"goût, variété"
+234,4,Pas vraiment,-0.407,autre
+236,2,L’encadrement des enfants est insuffisant selon nous. Pas assez de moniteurs par rapport au nombre d’enfants. Notre fille de 4 ans ( 1P) a mis 6 mois à se sentir en sécurité face à tout les enfants,-0.655,encadrement
+238,1,"Les menus ne donnent pas envie du tout, trop de plats ""spéciaux"" mais le simple est ce qui plaît le + aux enfants et peut très bien être équilibré aussi",0.108,"goût, variété"
+240,3,"Bonsoir, je voudrais juste savoir si il y a des écoles genevoises qui font les parascolaires du matin? De 7h à 8h du matin.
+
+Meilleure salutations.",0.289,autre
+243,1,"À force de diversification, les enfants ne comprennent plus ce qu’il dans leurs assiettes, ils sont heureux de manger des choses simples et ( basique). Ils se retrouvent parfois à passer la journée avec dans le ventre du pain et un yaourt pour éviter les assaisonnement folklorique et les accompagnement soit disant gastronomique. Je n’attends pas du restaurant scolaire qu’il fasse l’éducation du goût , de l’écologie, des effets néfastes de la mondialisation,du multiculturalism….de mon enfant, 
+ni la mienne . Je souhaite par contre qu’il est le ventre plein pour se consacrer à son travail et ses activités. Merci",0.241,"variété, goût, quantité"
+245,1,L'encadrement des enfants surtout les 1p devrait se faire avec beaucoup plus de bienveillance et initiation spécifique.,0.07,encadrement
+246,3,Non,-0.092,autre
+247,3,Nous apprécions l’approche de collaboration avec des producteurs locaux et des circuits courts,0.949,qualité
+248,1,"Malheureusement, mon enfant, qui n'est clairement pas difficile  avec la nourriture, n'a plus de plaisir à manger au parascolaire car il n'y a plus de vraie viande ou vrai poisson.
+Mon enfant n'en demande heureusement  pas tous les jours, mais souhaiterait tout de même manger une vraie bonne viande ou poisson de temps à autre.",-0.333,végétarien
+249,2,"Souvent, mon enfant n’apprécie pas les repas…",-0.797,goût
+252,2,Le personnel encadrant ainsi que la qualité de la nourriture sont très importants. Le même jugement est émis lorsque l'on se rend au restaurant.,0.345,"encadrement, qualité"
+254,2,"Ma fille me rapporte que les légumes sont souvent secs et sans goût. Et que globalement elle ne trouve pas les plats très bons… je pense qu’il y a un potentiel d'amélioration. Par exemple, elle adore les brocolis à la maison mais ceux cuisinés au cuisine scolaire à midi sont immangeables selon elle.",-0.552,goût
+258,2,"- les enfants peuvent se servir 2x au maximum pour chaque groupe d’aliment excepté le dessert 1x. Je trouve qu’il n’est pas normal de ne pas pouvoir se servir plus pour les féculents et les légumes/fruits qui devraient être à volonté d’après le SSJ. 
+- comment évaluer la qualité (goût) des menus sachant que nous ne pouvons pas les goûter nous-même?",-0.151,"quantité, implication des parents"
+263,3,"Très dommage que vous ne propose pas de la viande halal et poisson aux enfants qui pour des raisons religieuses ne peuvent pas manger du porc, mais peuvent manger du poisson et viande halal",-0.742,régimes spéciaux
+264,2,Faire plus attention à la cuisson des plats et à l'assaisonnement. Les retours de ma fille stipulait que certains plats étaient brulés ou sans goût.,-0.505,goût
+265,2,Je note que mon enfant est très rarement satisfait du goût et pourtant il n’est pas si difficile que ça ; au point de nommer des plats entre ses copains de « poisson vomi » par exemple… c’est dire,-0.625,goût
+267,3,Non,-0.092,autre
+268,2,Non,-0.092,autre
+271,2,"Varier les plats et faire des plats sans viande et poisson c’est bien, mais si c’est pour manger des produits ultra transformés, je suis plutôt contre",0.004,"qualité, végétarien"
+274,3,Non,-0.092,autre
+276,3,"Le suivi avec les parents .
+Exemple: mon fils est très sélectif concernant l'alimentation et souhaiterais donc avoir de temps en temps un retour des responsables.",0.043,implication des parents
+282,1,"Il y a eu une forte détérioration de la qualité et du choix des aliments, en particulier au cours de l’année 2023 à ce jour. Nous surveillons cela avec nos enfants et révisons le menu du jour. Des choix devraient être disponibles pour mieux répondre aux besoins des personnes ayant des restrictions alimentaires, mais d’autres ne devraient pas être obligés de manger la même chose, comme les substituts de viande et de poisson.",-0.172,"qualité, végétarien"
+283,1,Problématique que mon enfant qui mange du poisson mais pas de viande ne puisse pas avoir accès au poisson par cause d un règlement!,-0.824,régimes spéciaux
+285,3,Non,-0.092,autre
+289,3,Le comportement des adultes surveillants,0.0,encadrement
+291,3,M'en fils mange pas le cochon,-0.804,régimes spéciaux
+293,4,M'en enfants remarque.ne mange pas le cochon ou viande de porc.merci,0.162,régimes spéciaux
+295,3,"Je trouve dommage de ne pas avoir un produit qui remplace la viande et le poulet pour les enfants qui mangent halal.
+Les enfant qui ne mangent pas de viande ( soit disant végétarien) , ne peuvent pas manger de poissons",-0.723,régimes spéciaux
+297,3,Le bruit pendant le repas,-0.768,bruit
+300,2,C est mieux de nous laisser le choix entre  (viande et poisson)   ça veut dire le moment de l inscription il faut cocher cher animal comme ça nous enfants non pas le droit de manger du poisson,-0.307,régimes spéciaux
+302,2,Nos enfants ont eu trop souvent des sandwichs comme repas,-0.603,variété
+303,2,"Mes enfants se plaignent du goût des plats proposés et fréquemment ils ont faim car les menus ne sont pas à leur goût alors qu’à la maison il termine leur plat et mange de tout. Qu’en je discute avec eux, elles aimeraient des plats plus simple mais plus savoureux.",-0.371,goût
+305,3,Parfois les portions données à mes enfants sont trop généreux. À faire attention à mon sens.,-0.243,quantité
+311,3,"Les quantités sont souvent trop petites. Pas de possibilités de 2e service... Est-ce du fait que les animateurs mangent a nos frais ??? 
+De plus, il arrive souvent que notre enfant se plaigne de riz pas cuit…",-0.681,"quantité, goût"
+313,1,"Pour mes enfants la qualité a fortement diminué ces derniers année, pas de goût, pas bon, petite quantité. De plus comme ils sont présent que le vendredi, ils tombes toujours sur le jour où les expériences culinaires semblent faites.",-0.019,"goût, quantité, variété"
+314,3,"L un de mes enfants est végétarien (sans viande, noté dans son inscription). Malheureusement lorsqu il y a de la viande la proteine lui est simplement retirée et pas remplacée par une alternative végétarienne. Il n y va qu une fois par semaine, ça ne pose donc aucun souci de compenser aux autres repas mais ça m embêterai s'il devait s y rendre tous les jours.",-0.282,régimes spéciaux
+315,1,"Ma fille se plein tous les jours que les repas ne sont pas bons. Parfois elle ne mange que la salade ou le fruit. Après m'être renseignée auprès des autres parents, ils s'avèrent que ma fille n'est pas la seule. Je paye 8frs pour que ma fille crève de faim toute l'après midi car les plats sont immangeables. De plus, même les sandwichs des pic nic ne sont pas bons. Cela fait bien longtemps que j'ai pas entendu ma fille dire qu'elle a mangé à midi et que c'était bon.",-0.346,"goût, quantité, prix"
+316,3,J’aimerais connaître la raison pourquoi il serait favorable d’enlever la viande et le poisson ? Il me semble important que les enfants en mangent quand même une fois par semaine,0.219,"végétarien, implication des parents"
+320,2,Les restaurants scolaires peuvent et doivent jouer un rôle éducatif sur le thème de l'alimentation.,0.335,éducation à l'alimentation
+325,3,"Il est très important que les repas tiennent comptent des allergies les plus courantes, par exemple pas de fruits à coque.",0.067,régimes spéciaux
+326,2,Non,-0.092,autre
+327,2,"Le fait de proposer des menus sans viande est une démarche louable, mais pas sous forme de produits hautement transformés (p. ex. Tofu) souvent riches en additifs et dont l’origine est souvent très discutable. Le fait aussi de proposer de menus « équilibrés » que la majorité des enfants ne va pas manger créé davantage de gaspillage et ne leur donne pas envie d’essayer de nouvelles choses",-0.232,"végétarien, qualité, quantité"
+328,1,"Depuis le dernier changement de traiteur, les plats ne sont pas bons. 
+Allez manger une fois sur place...",-0.067,goût
+330,2,D’avoir 2 choix de plat principal  par jour,0.559,implication des enfants
+333,4,"We would like to know about the menu everyday. Please let us know how should we know. Furthermore, a mixed diet with local food is a great idea.",0.303,"implication des parents, qualité"
+334,1,Il y en a marre de ces menus pseudo-écolos sans viande et sans poisson !,-0.823,végétarien
+335,3,Acho importante manter carne ou peixe no menu.,0.05,végétarien
+337,3,Non merci,-0.861,autre
+340,2,Mes enfants sont plutôt facile pour la nourriture mais ils ce plaigne souvent que c'est pas bon.,-0.046,goût
+345,3,"Je suis d'accord pour limiter les protéines animales en les substiuant par des autres protéines et j'espère que lorsque du tofu est proposé, sa provenance doit être en ligne avec l'idée de consommer local puisque le soja peut provenir de très loin.
+Un autre point concerne la diversité des menus et des viandes. Malheureusement il n'y a pas assez de menus avec du porc voire de l'agneau et je trouve que le menu est très oriental puisque presque chaque semaine il y a au menu un plat de cette cuisine. 
+Pourriez-vous cesser de proposer du saumon de norvège qui est mauvais pour la santé, merci",-0.054,"végétarien, qualité, variété"
+347,3,"Mon enfant mange très peu (il mange très doucement) et est assez maigre. On n'a aucune information sur comment se passent les repas, le temps pris pour manger, s'il est encouragé à manger et goûter de tout même s'il n'aime pas trop quelque chose. Il y a assez peu d'informations",-0.307,implication des parents
+348,2,"Globalement, mon enfant se plains du goût. il trouve que la nourriture n'est pas bonne. Il a la comparaison avec se qu'il mangeait à la crèche, ou il était ravi tous les jours.",-0.266,goût
+349,4,Merci,0.955,remerciements
+350,3,"Serait-il possible d'envoyer un rappel quand le credit du restaurant approche à son épuisement (p.e. quand il reste qu'une semaine de repas payés) et pas quand il s'est déjà épuisé?  Nous n'avons pas le temps d'aller contrôler le credit sur le site de manière régulière... tandis que au niveau informatique ce rappel est facile d'être mis en place. Merci.
+
+Une autre chose qu'on aimerais savoir serait un petit rapport sur le comportement de l'enfant observé à table, notamment: est-ce qu'il mange toute son assiette ou il laisse beaucoup, il se comporte correctement, etc. Je comprend que c'est du boulot additionnel pour les accompagnants, mais je pense aussi que l'éducation alimentaire est très importante dans notre société, surtout le respect de la nourriture, l'appreciation de sa qualité et la lutte contre le gaspillage.",0.332,implication des parents
+358,4,Je trouve très bien que sur le menu (que je télécharge chaque mois) se trouvent les allergènes. Je salue également l'initiative du moins de viande / poisson. Il y a toujours des options végétariennes et les enfants trouvent les repas très bons.,0.957,"implication des parents, végétarien, goût"
+360,2,"Je pense que, souvent, les menus proposées ne sont pas adaptés à l'age des enfants. De plus, l'impossibilité de pouvoir de reservir ne devrait pas l'appliquer car il y a des enfants en pleine croissance qui ont besoin, parfois, d'un repas plus consistent.",-0.705,quantité
+361,4,"Malgré la consultation des menus, l'ainé est envoyé trop fréquemment à manger à Clair-Bois dont le menu est inconnu et différent de Kidelis ce qui nous complique le repas du soir sur la variété.",-0.707,implication des parents
+363,2,"Mon enfant se plaint souvent de la qualité servie: pâtes trop cuites ou parfois pas assez cuites . idem pour le riz. C'est également  peu goûtu.
+par exemple les saucisses de veau sont cuites vapeur et non grillées.
+Mon enfant manges de tout à la maison et à l'école c'est très compliqué. Alors le goûter et le soir , elle manges énormément pour compenser.",-0.367,"goût, quantité"
+364,4,Merci de continuer a leur faire manger des reps équilibrés et sains ! il est important que les enfants aient de la diversité culinaires a l’ecole !,0.737,"remerciements, variété"
+368,3,"Mon enfant décide en fonction du menu affiché d’aller ou non au restaurant scolaire car il s’est souvent retrouvé à trouver le repas tout simplement immangeable. Il rêverait d’avoir des pâtes toutes simple au fromage et avec crudités, sans chichis.",-0.364,goût
+369,4,Oui,0.365,autre
+373,2,Mon enfant reclame que les plats sont las assez chaud pour manger.,-0.156,goût
+375,3,"It would be nice if kids learn the choice of food and its benefits. For instance the menue could say carrotes, Vitamin Xy, which is good for eye sight, or oranges for immune boost, etc.",0.428,éducation à l'alimentation
+377,2,"A cette question : Depuis la rentrée scolaire de 2022, la Ville de Lancy a souhaité rendre les menus des restaurants scolaires encore plus durables avec plus de produits locaux et de saison et deux repas équilibrés mais sans viandes ni poissons par semaine.
+Vous mélangez la question des produits locaux et de saison et les aliments sans viande. Vos alternatives à la viande sont souvent mauvaises (goût et ultra transformation des produits) alors qu'il serait possible de proposer de la nourriture végétarienne de qualité. De plus, cette obligation au régime végétarien est contre productif pour les enfants, ils détestent ces faux-steaks ou ces ""fauxmages"".",-0.23,"végétarien, qualité, goût"
+380,2,"Notre enfant se plaint de la qualité de la nourriture. De son goût.  Il ressent que ce n'est pas cuisiné, que la nourriture est ""industrielle"". Il dit simplement que ce n'est pas bon. Nous sommes conscients que la logistique des restaurants scolaire est globalisée, mais il nous semble que tout devrait être mis en place pour que les repas soient préparés de manière plus artisanale. Nous trouvons aussi qu'un accompagnement lié à la découverte des aliments et qu'une introduction au repas  dispensée au moment du repas serait une bonne idée pour que les enfants sachent apprécier ce qui leur est servi.",-0.264,"goût, qualité, éducation à l'alimentation"
+381,2,"Pour ce qui concerne l'école de Tivoli, les repas sont malheureusement livrées beaucoup trop tôt dans la journée(7h00) ce qui fait que les repas sont toujours froid à l'heure de manger. Mon enfant se plaint de cela ce qui est normale. Je pense qu'une nouvelle organisation concernant la livraison de ceux-ci devrait être mise en place afin que les enfants aient le droit à des plats chaud.",-0.647,goût
+382,3,"- pas assez de viande porc. 
+- trop de plats en sauce (mon enfant quand il y atrop de sauce).
+- 1 plat végétarien par semaine de 4 jours suffirait.
+- pains pas assez diversifiés et trop souvent du pain blanc (qui devrait être banni)",-0.552,"variété, végétarien"
+383,1,"Les équipes du Giap sont mal formées et malhonnetes. 
+Très compliqué avec eux... dommage que ça ne soit pas dea gens formés tel que des ASE ou éduc... de simple ""animateurs"" ne sont pas en mesure d'assurer une prise en charge adéquate quand il s'agit d'un enfant à besoin spécifique ou autre .. regrettable..",-0.865,encadrement
+385,1,attention aux aliments mélanger et pas de crème dans les plats,-0.228,goût
+387,3,"- Parfois, les enfants n'ont pas le temps de finir de manger.
+- Certains adultes exigent le silence durant le dessert, par exemple (pas le droit de parler du tout). Or un repas doit rester un moment convivial !
+- Les enfants ne sont pas des adultes au niveau des goûts. La nouveauté ou l'originalité, c'est bien, mais à petite dose. L'essentiel reste quand même que les enfants gardent leurs repères et puissent trouver quelque chose à leur goût dans le menu. Parfois, les assaisonnements (ou la façon dont les choses sont cuisinées) sont déroutants pour eux.
+- Il y a des salades tous les jours en entrée, et de la salade verte deux fois par semaine. Mes enfants n'aiment pas cela, du coup ils zappent presque systématiquement l'entrée. C'est dommage qu'il n'y ait pas plus de variété. Il faut de la salade de temps en temps, bien sûr; mais des soupes, des dips de légumes (ou autres...) seraient appréciés et convaincraient d'autres enfants.
+- À Clair-Bois, c'est apparemment meilleur qu'à l'école (d'après mes enfants).
+- Le repas de Noël a été apprécié de mes enfants. Merci !",0.11,"temps, encadrement, variété, goût"
+390,3,Un seul repas végétarien suffirait largement!,0.776,végétarien
+393,2,"Je vous remercie de nous donne la possibilité de vous communique notre insatisfaction sur le fait que 2 jours par semaine les enfants n’ont pas de viandes ou poisson.
+Ils sont en plaine croissance et on besoin de tous.
+Qu’un adulte ne mange pas tel ou tel produit sa le regarde mais on paye pour qu’ils aie de tous et tous les jours.
+D’avance merci",0.176,"végétarien, implication des parents, prix"
+396,1,"La qualité de la cuisine proposée est médiocre (le personnel encadrant concède parfois aux enfants que la nourriture servie ne fait pas envie). Mes trois enfants se plaignent unanimement de la qualité déplorable des plats qui leur sont servis. Ils relèvent fréquemment n'être pas rassasiés à la fin des repas. 
+
+À certaines occasions, ils m'ont indiqué ne pas avoir autorisés à se servir une deuxième portion.
+
+Aussi, il apparait indispensable d'améliorer la qualité de la cuisine, qui, pour l'heure, ne fait même pas envie aux adultes chargés de la servir.",-0.712,"goût, quantité"
+399,1,Les repas ne sont pas bons.,-0.885,goût
+400,2,"Pas toujours des portions suffisantes pour des enfants en fin de primaire.
+Pas normal d'imposer autant de repas sans viande ni poisson.
+
+Mais sinon TOP! Merci d'accueillir nos enfants! :-)",0.107,"quantité, végétarien, remerciements"
+401,4,Non,-0.092,autre
+402,2,L'espace pour manger était mieux avant le changement dans les nouveaux locaux. Il n'y a pas assez d'espace et il y a encore plus de bruit qu'avant.,-0.767,bruit
+403,3,"Arrêter de vouloir satisfaire les minorités avec les menus vegetarien et vegan qui sont tres a la mode mais ne correspondent pas a la majorité. 
+Les proposer de temps en temps est une très bonne idée mais pas en abuser",-0.073,végétarien
+404,2,La prise en charge est peu satisfaisante surtout relation enfants/ animatrice(eur) car l'encadrement dans certains cas reste peu professionnel....,-0.836,encadrement
+406,2,"mon fils n'arrive pas à manger les gratins, les légumes trop cuités. Quand il a la raclette il n'y pas d'autre choix et le fromage et déjà sut les patate. 
+Beaucoup de repas  déjà avec la sos, la même chose dans les sandwichs et mon enfant n'aime pas les sauces. Faut laisser le choix d'en mettre ou pas.",-0.39,"goût, implication des enfants"
+407,4,Les menus devrait être affichés à un endroit où ils sont consultables facilement.,-0.104,implication des parents
+412,3,Faire attention aux portions trop importants.,-0.597,quantité
+413,1,"je suis pour la diversité alimentaire, notamment d'avoir certains jours des plats végétariens. En revanche il est totalement aberrant de proposer des produits équivalents a la viande type Quorn ultra transformé et questionable point de vue santé. Il est préférable de proposer des plats végétariens préparés avec des produits frais. 
+
+De plus, mon enfant pratique une activié physique régulière et a souvent interdiction de se resservir. Il se plaint régulièrement d'avoir encore faim après le repas de midi.",-0.043,"végétarien, qualité, quantité"
+414,2,Mes enfants me font souvent référence au goût. Ils me disent que les repas ne sont souvent pas bons du tout et que dans ces cas ils ne mangent que du pain.,0.023,"goût, quantité"
+417,3,"Les portions distribuées sont parfois trop conséquentes, ma fille en 2P mange peu et on lui sert la même chose qu’un enfant de 8P… c’est un peu du gaspillage…",-0.822,quantité
+418,3,merci pour les activités organisées pendant la période d'attente pour manger.,0.927,"remerciements, encadrement"
+420,1,Les repas sont souvent mauvais depuis 2 ans environ (le goût). La quantité de légumes n'est pas toujours assez grande.,-0.868,"goût, quantité"
+426,2,Lors de sorties externes il est donné des sandwichs aux enfants ce n’est pas bon et ils n’on pas de choix sur ce qu’ils souhaitent mettre dans leur sandwich ! Trop gras moutarde et ou beurre ! Donc  les enfants ne mangent rien !,-0.827,"goût, qualité, implication des enfants"
+430,4,Serait -il possible d'avoir des menus s'adaptant au multiculturalisme de Geneve?,0.03,variété
+432,3,"Bonjour, Merci pour les services que vous offrez à nos enfants. ^",0.8,remerciements
+435,2,"Nous trouvons regrettable que du pain soit mis à disposition des enfants à chaque repas. 
+Selon les diététiciens, une assiette équilibrée devrait contenir : une moitié de fruits et légumes, un quart d'aliments riches en protéines et un quart de farineux.
+Le pain ajoute des farineux inutiles.
+Les enfants qui n'aiment pas ce qui leur est servi auront tendance à manger du pain à la place, ce qui n'est pas idéal en termes nutritionnel et peut contribuer à une prise de poids.
+
+Les pics nics ne sont pas annoncés à l'avance. Durant les beaux jours il est arrivé plusieurs fois qu'ils remplacent les menus prévus.",-0.467,"quantité, qualité"
+436,1,"Je vous invite à changer de cuisinier ou cuisinière. Mon enfant se plaint tous les jours que ce n’est pas bon alors il mange presque rien. Faites des menus plus simple, ce sont des enfants. Et merci de limiter le pain, je trouve inadmissible qu’il puisse en manger en quantité illimité.",-0.698,"quantité, goût"
+438,3,non,-0.194,autre
+442,4,"Il serait très utile de mettre en place un système permettant aux enfants de se laver les dents après les repas, sous surveillance pour les petits qui n'ont pas la discipline de le faire spontanément.",0.388,encadrement
+443,2,"Oui. Nos enfants se plaignent beaucoup de la qualité des repas (notamment manque de goût et baisse qualité des ingrédients utilisés). Aussi, le personnel encadrant parfois n'est pas en mesure de répondre aux questions des enfants par rapport aux ingrédients utilisés pour la preparation des plats.",-0.497,"goût, encadrement"
+444,1,"Au delà du choix - unilatéral - de réduire la viande/le poisson que je découvre grâce à cette enquête, (à faveur de croq pané de blé + quiche au fromage la même semaine!), nos enfants (et à leur dire ils sont loin d'être les seuls) déplorent une baisse de la qualité sur toute la ligne (variété. choix, cuisson...). Je tiens à souligner que jamais dans les 6 et 3 années précédentes ils s'étaient plaints. Ce ne sont pas des enfant gâtés, nous ne sommes pas des carnivores acharnés; nous étions juste fiers du service de la Ville de Lancy qui a - littéralement - aidé nos enfants à grandir (même en terme d'apprécier les différences, importantes....même à table).  A partir de septembre, il y a trop de choses qui ne vont pas: les plats qui étaient les bienvenus, ne le sont plus autant; des jours ils ne mangent quasiment rien (et l'après midi ils rentre avec 'la dalle'), nous devons intégrer ce que l'école ne leur donne plus. Même des éléments qui sembleraient moins importants ne marchent pas: à la rentrée après les vacances de noël, impossible d'avoir les nouveaux menus  quelque jour auparavant, histoire de cales les repas du soir sur ceux de midi. A deux reprises, mon grand a demandé ''comment cela est cuisiné'' ou ''quels sont les ingrédients'' pour avoir comme réponse ''Je ne sais pas, ce n'est pas moi qui a cuisiné'. Comme si un serveur - même si dans une école et pas dans un étoilé - n'est pas censé - obligé? - de savoir ce qu'il est en train de servir. A des enfants, de surcroit. Je ne crois pas que cette enquête soit arrivé par hasard. Nous avons choisi l'école public comme une valeur importante pour nous et pour nos enfants. Les nourrir (avec de connaissances, mais aussi avec de la bonne nourriture) est essentiel; et une responsabilité que nous, avec les dues proportions et sans aucun délégation indue par rapport à notre rôle de parents -  partageons avec les institutions.",-0.092,"implication des parents, variété, goût, quantité, encadrement"
+447,2,"Ma fille aime beaucoup plusieurs légumes mais n'aime simplement pas la façon dont ils sont cuisinés au restaurant scolaire (trop cuit ou pas assez). Les élèves plus grands (5-8P) manquent de temps pour manger, car ils mangent après les plus petits. Ils sont donc stressés et arrivent quasi tous les jours en retard en classe.",-0.504,"goût, temps"
+448,3,"Je vous remercie pour ce questionnaire! 
+Seule remarque, pour lutter contre le gaspillage il a peut etre des alternatives comme offrir les repas restants aux familles ou autres personnes en nécessité.",0.55,quantité
+453,3,"Bonjour,
+
+Suite à une enquête que j'ai menée sur les menus du parascolaire, j'aimerais partager quelques préoccupations. Il est essentiel pour le bien-être des enfants que les repas proposés soient équilibrés, en incluant une variété de protéines animales, de légumes et de fruits. De plus, j'ai remarqué qu'il y a parfois un manque de patience dans l'encadrement des enfants, ce qui a conduit plusieurs d'entre eux à ressentir un malaise lors des repas.
+
+Selon mon enquête, il est nécessaire d'améliorer la supervision des enfants au parascolaire, car les personnes en charge manquent parfois de patience, ce qui a un impact négatif sur l'expérience des enfants, notamment au restaurant scolaire. De plus, il est important de veiller à ce que les repas proposés soient équilibrés en termes de protéines animales, de légumes et de fruits, afin de promouvoir une alimentation saine et équilibrée pour les enfants.
+
+Je suggère donc de renforcer les contrôles de qualité concernant les menus et d'accorder une attention particulière à l'encadrement des enfants, en favorisant un comportement patient et bienveillant. Je suis convaincu que ces ajustements contribueront à améliorer l'expérience des enfants au restaurant scolaire.
+
+Je vous remercie de prendre en considération ces points et je me tiens à votre disposition pour en discuter plus en détail.",0.074,"goût, qualité, implication des parents, encadrement"
+454,3,RAS,-0.054,autre
+456,2,"Souvent mon enfant me dit qu'il ne peut pas se resservir, alors qu'il a encore faim!
+Je veux bien qu'on ne gaspille pas mais je ne veux pas qu'il reste sur sa faim",-0.386,quantité
+457,2,Mes enfants me reportent souvent que la nourriture de la cantine n’est pas bonne. Parfois ils mangent que le pain et le dessert,-0.475,"goût, quantité"
+461,2,Serait il possible d'avoir la sauce à salade séparée de la salade ?,0.021,implication des enfants
+462,1,"Estoy decepcionada con el restaurante escolar por no meter en el menú comida halal. Si que dais opciones para los veganos y vegetarianos pero no para la comida halal, y no lo comprendo ya que en los colegios hay muchos niños que comerían comida halal. Además al rellenar el formulario para el restaurante escolar si marcas la casilla de no darle carne a los niños esto incluye el pescado y no debería de ser así ya que en mi caso mis hijos si podrían comer pescado pero como no dais la opción mía hijos comen como si fueran vegetarianos. Espero y deseo que den oportunidades a los niños que quieren comer comida halal.",-0.355,régimes spéciaux
+465,2,"Mes enfants qui mangent de tout à la maison reviennent souvent du parascolaire en ayant pas beaucoup mangé car ils n’aiment pas les féculents genre pois chiche, falafel…",-0.368,"goût, quantité"
+466,1,Malheureusement la qualité et le goût des plats  proposés à midi  dans les 2-3 dernières annees ont nettement baissé.,-0.893,goût
+469,3,Oui concernant la proposition de variété pour enfants et plat équilibré. Certains enfants comme mon fils n’aime pas trop gouté à de nouvelles choses mais je trouve que le resto scolaire est un lieu idéal pour cela. On dit que c’est pas bien de forcer les enfants mais peut-être que dans le cadre de l’école et le groupe le fait de rendre obligatoire de goûter à tout est plus simple.,0.518,éducation à l'alimentation
+470,2,"Me enfants me remontent sans cesse des repas froid, peu goûteux voire pas bon, des interdictions de se resservir et des accompagnants qui leurcrient dessus. Ce n'est pas vraiment ce que j'attends d'un restaurant scolaire. Aucun changement depuis des années, personne ne se souci de ceci malheureusement.",-0.811,"goût, quantité, encadrement"
+472,4,Merci pour tout. Juste voir si l’enfant mange assez merci,0.654,"remerciements, quantité"
+473,4,Non,-0.092,autre
+474,3,"La préparation de certains aliment n'est pas terrible (exemples les pâtes: certaine sont crues et d'autres trop cuites... Certains desserts ont la consistance, je cite: ""de bougie"". Des cheveux et des morceaux de gants en latex ont été retrouvés dans les assiettes des enfants. Certaines fois, les enfants n'ont pas de 2ème service et n'ont pas assez mangé.",-0.551,"goût, quantité"
+479,3,Mes enfants sont en inscriptions irrégulières. En moyenne ils y vont 0 à 2 fois par semaine.,-0.358,autre
+481,3,"L'encadrement du parascolaire doit permettre aux enfants de souffler et d'être des enfants à tout le moins. J'ai 3 enfants et cela fait 15 ans qu'ils fréquentent le parascolaire. L'équipe en place ne doit pas confondre leur rôle et celui de gardien de détenus et devraient faire preuve de moins d'autoritarisme et abandonner la menace, le chantage et la punition pour assurer LEUR tranquillité. Après une matinée passée assis sans bouger, les enfants ont besoin d'extérioriser. Notez encore que mes enfants n'ont jamais posé problème ni n'ont été punis mais subissent comme tout le monde.",0.206,encadrement
+483,3,"Les lieux devant accueillir les enfants sont trop petits et aussi, beaucoup trop bruyants. Il semblerait que de nouvelles constructions telles qu'à Lancy Pont-Rouge pose le même problème, alors qu'elles sont neuves. Beaucoup d'enfants souffrent du volume sonore lors de leurs repas. Je trouve dommage que cette question ne soit pas abordée auprès des parents, car je suis convaincue qu'il s'agit d'un problème général dont malheureusement personne se préoccupe.",-0.755,bruit
+487,3,Ma fille dificil à mange légumes y viande il fout motive,0.46,autre
+488,3,Merci,0.955,remerciements
+491,3,bien,0.926,autre
+495,3,"Les fruits légumes ne sont pas toujours de saison. Cela n'aide pas les enfants à apprendre que tous les végétaux ne poussent pas toute l'année chez nous, dommage!",-0.833,éducation à l'alimentation
+496,2,Ma fille me dit souvent que le goût des plats proposés n'est pas très bon. Il n'est pas rare qu'elle mange surtout du pain et du dessert et je trouve cela dommage...,-0.85,"goût, quantité"
+497,2,"Le plus grand problème c’est que au parascolaire , très souvent quand il a quelque chose de nouvelle à goûté les autres ne vont pas avec ou sont également étrange au palais des enfants. Ce que les empêche de mange ce qu’ils ont dans assietr Et finissent pour manger bcp du pain
+
+Avant tout j’aimerais vous remercier d’exister, de pouvoir nous permettre de laisser nous enfants en sécurité et bien veillés pendant que nous travaillons. Merci  
+De plus j’ai effectivement quelques choses à signaler:
+
+1. Excès de gaspillage quand les menus sont végétariens. Il a le double de poubelle dans les restaurants scolaires quand le menu est végétarien. Les enfants disent . Peut être proposer des plats et mélanges plus simples et connus. Ah, 1 menu végétarien par semaine c’est LARGEMENT soufisant.
+
+2. Le fait que la nourriture soit transportée dans des camions et réchauffer sur place ne facilite pas l apparence ni le goût des plats. Ex: pâtes sèches/brules; des légumes surcuits etc.
+
+3. Les enfants aiment manger le simple. 
+Un menu: beterrave,pomme, fêta + patates douche, petit poid + salsifis c’est quand même très exotique pour des enfants. Même moi j aurais de la peine. 
+Restez sur le simple: faire gouté des légumes de saison ne signifie pas les mettre tous au même temps dans la même assiette. Ex: Riz,épinard, protéine / boulgour, brocolis, protéine/ ratatouille avec du riz 
+Quand des légumes moins connus seront proposés donnez quand même l option d’autres chose plus appréciée dans les assiettes.
+
+4. Un peu de légèreté aussi dans le choix des épice, dans l excentricité des mélanges et la déstructuration des viandes ( ballotine de volaille qui ont le  goût de patate parce que la volaille n’était pas vraiment présente)  Brocolis avec des amandes/ tajine avec du saumon/ entre autres choses sont diffficiles à être accepter par le palais des enfants.
+
+Je vous remercie d’avoir pris le temps de me lire et j’espere que les responses des parents apporteront des changement positifs pour nos enfants",-0.117,"remerciements, quantité, végétarien, goût, variété, implication des parents"
+498,3,De ne pas mélanger tous les aliments du repas pour avoir la possibilité manger sans lactose. Par exemple : séparer les sauces et le riz. Proposer aussi les repas sans lactose. Avoir la possibilité de mettre le repas panier (le repas sans lactose) au frigo et pas au crochet au vestiaire du classe d'enfant.,0.155,régimes spéciaux
+499,3,non,-0.194,autre
+500,1,Mes enfants trouvent que ce n’est pas bon. Il est vrai que les menus ne font pas envie.,-0.845,goût
+503,1,"Mes enfants me font très souvent le retour qu'ils n'ont pas apprécié leur repas de midi. La cuisson, le goût des aliments, comme les burgers, les crevettes aliment qu'ils adorent habituellement. Certains plat qu'ils n'aiment pas car des aliments qu'ils n'ont pas l'habitude de manger. Ils leur arrive de manger un morceau de pain et le dessert en guise de repas. Je trouve aussi choquant les dessert proposé comme des donuts, ou des pâtisserie qui n'ont pas leur place dans un repas de midi.",-0.239,"goût, quantité, qualité"
+504,4,"Oui, niveaux cuissons des végétaux et légumes, ne les faites pas trop cuire et parfois il manque d’assaisonnement et d’autres fois il est très salé. Merci",0.135,goût
+508,2,"Je trouve que la proposition de plats végétariens et trop fréquentes. Étant aux cuisines scolaires que deux fois par semaine, ils ont un des deux repas qui est végétarien et trop souvent ils n'apprécient pas et se retrouvent sans avoir presque rien mangé. Pour ma part, viande et poisson sont indispensables à leur croissance. Les mets végétariens devrait être laissé sur demande particulière aux familles qui prônent ce régime alimentaire et ne pas l'imposer à tous.",-0.212,"végétarien, quantité"
+513,3,"Je ne trouve pas normal que les repas ne soient pas les mêmes pour tous les enfants. Certains enfants ont un repas différent quand il y a du porc au menu, mes enfants n'ont pas de traitement de faveur sur un quelconque aliment. Difficile d'expliquer la raison à un enfant, surtout quand l'assiette à côté à l'air meilleur.",-0.449,régimes spéciaux
+514,2,"Ayant un enfant avec une allergie alimentaire très simple, qui n'est pas allergique aux traces et qui sait très bien quels sont les aliments potentiellement à risque avec un menu disponible qui décrit les allergènes, je trouve très dommage qu'il ne soit pas possible de lui proposer les mêmes menus que les autres, sachant qu'aucun de ces aliments ne contient l'allergène. Je trouve très bien qu'il soit possible d'avoir des repas sans allergènes et que les allergies alimentaires soient pris au sérieux, mais on passe maintenant dans l'autre extrême. Mon enfant, qui peut manger sans aucun problème tous les aliments à part un et qui va dans les restaurants publics sans soucis, se retrouve avec un repas sans gluten, sans noix et sans lactose, que je ne souhaite à personne. Quand les autres enfants ont des crêpes au fromage, le menu contient des crêpes sans gluten aux carottes. Mon enfant n'a donc plus le plaisir de manger au restaurant scolaire et se sent exclu. 
+De plus, mon enfant n'a pas non plus le droit de manger le goûter, alors que les prix ne sont pas réduits pour autant pour l'accueil parascolaire de l'après-midi. 
+Les allergies alimentaires sont de plus en plus fréquentes, et il serait bien d'être un peu plus flexible sur le sujet et de trouver un moyen de mieux accueillir ces enfants. En effet, avec le système actuel inadapté, il y a une séparation majeure entre les enfants avec (même peu importante) et sans allergies avec, outre les complications logistiques, un risque d'augmenter l'isolement social et l'estime de soi comme déjà démontré dans de nombreuses études.",-0.41,"régimes spéciaux, prix"
+515,3,"Idée d'amélioration : obtenir le label Ama terra. Plus de place aux menus végétariens. Sensibilisation des enfants et parents aux questions de durabilité (gaspillage, produits de saison, commerce équitable etc.)",0.461,"qualité, végétarien, éducation à l'alimentation"
+519,3,Mon enfant se plaint parfois du bruit dans la salle à manger. (surtout le cas avant que le repas soient servis dans la nouvelle cantine d'En Sauvy.,-0.428,bruit
+525,3,"La diversité des sauces est appréciée, mais des fois les goûts trop prononcés (Cumin etc...) ou pas tout à fait adapté pour des enfants (ex: Sauce au poivre).",0.0,goût
+526,2,"Comme mon enfant est en 7P et lorsque son grand-frère était en 8P l’année dernière, lorsque leur tour de manger arrivait, 2eme service, il n’y avait plus assez à manger.  Mes enfants m’expliquent que les petits peuvent se servir deux fois et la moitié des repas finissent à la poubelle, et pour cette raison il n’y a plus assez pour nourrir les grand de 11 et 12 ans, qui eux par contre ont besoin de plus de quantités en raison de leur âge. Ils se plaignent aussi que le goût n’es pas bon et qu’il y a beaucoup des repas végétariens.",-0.738,"quantité, goût, végétarien"
+530,3,"Il est difficile de contenter tout le monde et de préparer des menus sur mesure pour les musulmans, végétariens et autres régimes alimentaires. Tout en respectant les choix des uns et des autres, le marché regorge de produits de qualité, merci pour votre engagement !",0.228,"régimes spéciaux, remerciements"
+531,3,"Je comprend l’idée de vouloir faire essayer différents plats aux enfants, mais je trouve que proposer du riz ou des pâtes avec la sauce à part serait une meilleure idée. Dans le cas de mon enfant ça serait une aubaine parce que souvent ne mange rien a cause de la sauce. Manger que du riz ou des pâtes c’est nettement mieux que de ne rien manger de là journée.",0.32,"implication des enfants, quantité"
+536,2,Mon enfant se plaint souvent de ne pas aimer la nourriture de la cantine.,-0.824,goût
+539,1,"Malheureusement ma fille n apprécie pas de manger au restaurant scolaire. C est le cas de certaines de ses amis aussi. Les plats sont trop élaboré et il manque de la simplicité,il y pas d alternative aux repas pour ceux qui n aime pas par ex. la sauce. Souvent ma fille revient de l école affamé car elle a mangé seulement le fruit/ le pain/la salade.",-0.453,"goût, implication des enfants, quantité"
+541,2,"D'avoir un jour par semaine une viande rouge, à mon avis c'est très important. Et aussi assaisonner des certains légumes, car des fois ils n'ont pas de goût et c'est dommage que finissent après a la poubelle. Et pas trop des sauces piquantes, sur les protéines s'il vous plaît!",-0.075,"variété, goût"
+544,3,"La réactivité de l'équipe de la Caroline a été jusque-là impeccable pour nous. Nous avons remarqué des efforts de communication de la part de Giap global qui sont appréciés, et nous ne pouvons que vous y encourager !",0.929,encadrement
+545,3,J'aimerais connaître le menu de la semaine du restaurant scolaire,0.056,implication des parents
+548,3,"Mes enfants se plaignent à chaque fois en revenant du restaurant scolaire que les plats proposés sont ""patchouques"" (mous/ sans consistence), et manquent de goût car pas de sel/huile/beurre ou herbes aromatiques... Et donc, souvent, ils préfèrent ne rien manger plutôt que de se forcer avec ce qui est servi. Bref, en tant qu'adulte, je suis bien consciente des exigences non seulement du label fourchette verte (qui est un peu de la rigolade quand même), mais aussi des contraintes de sécurité alimentaire lorsqu'il s'agit de servir de larges quantités comme celles concernées par les cantines scolaires. Cela ne fait malgré tout pas mieux passer la pilule auprès de mes enfants qui qualifient souvent la nourriture servie de ""dégueulasse"".",-0.514,"goût, quantité"
+549,2,"Selon retour de mon enfant, les repas sont souvent pas frais et dur",-0.865,qualité
+550,2,"Au niveau du goût, il semblerait que la nourriture est régulièrement fade. Aussi, les enfants transmettent que ça n'a pas toujours un bon goût, ils nous communiquent ""on dirait que c'est pas eux qui font"" -> purée de pomme de terre : est-ce une vraie purée ?",-0.8,goût
+552,2,"Je plains ma pauvre fille de devoir manger la nourriture issue de l'entreprise Eldora. J'ai eu personnellement l'occasion de goûter cette tambouille pendant plusieurs années sur mon lieu de travail. Le supplément ""mal de ventre"" et ""flatulences"" étaient gratuits.",0.007,goût
